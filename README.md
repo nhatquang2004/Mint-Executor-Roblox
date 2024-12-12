@@ -14,6 +14,7 @@ To get started with Mint Executor, follow these simple steps:
 
 
 
+
 ![Mint Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
